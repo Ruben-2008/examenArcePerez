@@ -2,3 +2,4 @@
 2. touch prog/index.php
 3. cp ../prog/index.php ../bbdd/consultas.sql
 4. mkdir si/git
+5. cd si/git
